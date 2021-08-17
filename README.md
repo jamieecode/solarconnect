@@ -3,6 +3,9 @@
 ## 설명
 사용자가 입력한 숫자를 오름차순 및 내림차순으로 정렬해주는 프로그램입니다.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71512593/129759030-c72701ef-8b5e-4368-a5b7-cada59fe3fd4.gif)
+
+
 
 ## 설치
 1) ``` npm install``` ``` npm start ```
