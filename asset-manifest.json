@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/solarconnect/static/js/main.bf1621d1.chunk.js",
-    "main.js.map": "/solarconnect/static/js/main.bf1621d1.chunk.js.map",
+    "main.js": "/solarconnect/static/js/main.beb12dad.chunk.js",
+    "main.js.map": "/solarconnect/static/js/main.beb12dad.chunk.js.map",
     "runtime-main.js": "/solarconnect/static/js/runtime-main.fb119d36.js",
     "runtime-main.js.map": "/solarconnect/static/js/runtime-main.fb119d36.js.map",
     "static/js/2.4b64065b.chunk.js": "/solarconnect/static/js/2.4b64065b.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.fb119d36.js",
     "static/js/2.4b64065b.chunk.js",
-    "static/js/main.bf1621d1.chunk.js"
+    "static/js/main.beb12dad.chunk.js"
   ]
 }
