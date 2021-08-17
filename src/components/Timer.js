@@ -41,7 +41,9 @@ const Timer = ({ country }) => {
         <h2>
           {`${getUsDay[time.getDay()]}day ${
             getUsMonth[time.getMonth()]
-          } ${time.getDate()}, ${time.getFullYear()}  ${time.toLocaleTimeString()}`}
+          } ${time.getDate()}, ${time.getFullYear()}  ${time.toLocaleTimeString(
+            "en-US"
+          )}`}
         </h2>
       )}
     </>
